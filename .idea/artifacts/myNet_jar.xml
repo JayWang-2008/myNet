@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="myNet:jar">
+    <output-path>$PROJECT_DIR$/../../..</output-path>
+    <root id="archive" name="myNet.jar">
+      <element id="module-output" name="myNet" />
+    </root>
+  </artifact>
+</component>
